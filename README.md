@@ -8,7 +8,7 @@ This script parses german election survey result data data from [dawum.de](https
 
 ### Dependencies
 
-* Requests
+* requests
 * python-slugify[unidecode]
 
 ### Usage
